@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **juanmisiac/juanmisiac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"/>
+    <h1 align="center">Hola! Soy Juan Misiac</h1>
+</div>
+
+<div id="cuerpo" align="center">
+    <h3>
+      Tengo conocimientos en HTML, CSS, JavaScript y Python. Actualmente estoy aprendiendo React y tengo un poco de experiencia utilizando Vue.js. La única experiencia que tengo          es en proyectos básicos y personales, hechos completamente por mi y para ejercitar mis conocimientos.
+    </h3>
+</div>
