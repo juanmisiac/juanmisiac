@@ -13,13 +13,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"/>
-    <h1 align="center">Hola! Soy Juan Misiac</h1>
-</div>
+# Hola mundo! Soy Juan Misiac
+<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" align="center" width="200"/>
 
-<div id="cuerpo" align="center">
-    <h3>
-      Tengo conocimientos en HTML, CSS, JavaScript y Python. Actualmente estoy aprendiendo React y tengo un poco de experiencia utilizando Vue.js. La única experiencia que tengo          es en proyectos básicos y personales, hechos completamente por mi y para ejercitar mis conocimientos.
-    </h3>
+## 🚀 Sobre mi!
+Tengo 19 años y soy un Desarrollador Full Stack!
+Graduado del curso Full Stack Python de "Codo a Codo"
+y estudiante del segundo año de la Licenciatura en Sistemas en la Universidad de Lanús.
+
+Mi comunicación es clara y efectiva, siempre manteniendo una mentalidad positiva y enfocada en encontrar soluciones. Además, mi capacidad para adaptarme rápidamente a nuevas situaciones y desafíos me permite trabajar cómodamente con personas nuevas!
+
+## 🛠 Habilidades
+<div align="left">
+    <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
+    <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
+    <img src="https://img.icons8.com/color/144/javascript--v1.png" width="120" alt="JavaScript"/>
+    <img src="https://img.icons8.com/color/144/react-native.png" width="120" alt="React-native"/>
+    <img src="https://img.icons8.com/color/144/python--v1.png" width="120" alt="Python"/>
+    <img src="https://img.icons8.com/fluency/48/mysql-logo.png" width="120" alt="MySQL"/>
 </div>
