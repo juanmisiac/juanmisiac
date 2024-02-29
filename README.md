@@ -30,5 +30,5 @@ Mi comunicación es clara y efectiva, siempre manteniendo una mentalidad positiv
     <img src="https://img.icons8.com/color/144/javascript--v1.png" width="120" alt="JavaScript"/>
     <img src="https://img.icons8.com/color/144/react-native.png" width="120" alt="React-native"/>
     <img src="https://img.icons8.com/color/144/python--v1.png" width="120" alt="Python"/>
-    <img src="https://img.icons8.com/fluency/48/mysql-logo.png" width="120" alt="MySQL"/>
+    <img src="https://img.icons8.com/fluency/144/mysql-logo.png" width="120" alt="MySQL"/>
 </div>
