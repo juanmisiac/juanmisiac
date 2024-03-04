@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hola mundo! Soy Juan Misiac
-<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" align="center" width="200"/>
+<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" align="center" width="250"/>
 
 ## 🚀 Sobre mi!
 Tengo 19 años y soy un Desarrollador Full Stack!
