@@ -23,6 +23,8 @@ y estudiante del segundo año de la Licenciatura en Sistemas en la Universidad d
 
 Mi comunicación es clara y efectiva, siempre manteniendo una mentalidad positiva y enfocada en encontrar soluciones. Además, mi capacidad para adaptarme rápidamente a nuevas situaciones y desafíos me permite trabajar cómodamente con personas nuevas!
 
+Actualmente me encuentro trabajando en el siguiente proyecto: <a href="https://github.com/juanmisiac/dolares"> "Dolares"</a>
+
 ## 🛠 Habilidades
 <div align="left">
     <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
