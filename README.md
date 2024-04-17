@@ -27,10 +27,10 @@ Actualmente me encuentro trabajando en el siguiente proyecto: <a href="https://g
 
 ## 🛠 Habilidades
 <div align="left">
-    <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
-    <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
     <img src="https://img.icons8.com/color/144/javascript--v1.png" width="120" alt="JavaScript"/>
     <img src="https://img.icons8.com/color/144/react-native.png" width="120" alt="React-native"/>
     <img src="https://img.icons8.com/color/144/python--v1.png" width="120" alt="Python"/>
     <img src="https://img.icons8.com/fluency/144/mysql-logo.png" width="120" alt="MySQL"/>
+    <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
+    <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
 </div>
