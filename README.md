@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" align="center" width="500"/>
 
 ## 🚀 Sobre mi!
-Tengo 20 años y soy Desarrollador FrontEnd!
+Tengo 21 años y soy Desarrollador FrontEnd!
 Graduado del curso Full Stack Python de "Codo a Codo"
 y estudiante del segundo año de la Licenciatura en Sistemas en la Universidad de Lanús.
 
